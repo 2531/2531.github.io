@@ -1,15 +1,1 @@
-{
-    "githubUsername": "2531",
-    "blogTitle": "陶鸡巴",
-    "blogDescribe": "欢迎来到陶鸡巴的个人博客",
-    "htmlTitle": "陶鸡巴的博客",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "http://58.49.111.144/amobile.music.tc.qq.com/C400001UlaW91KrY4k.m4a?guid=7726713789&vkey=41129841E623406155618FE35E72654EEDEA34A7944693AB060373F6620505BE2A98477E5910D624D201C192672923A46D985D317D5B9031&uin=4919&fromtag=66",
-    "mini": false,
-    "webSites":[
-        {"name":"百度" , "url":"https://www.baidu.com/"}
-    ]
-}
+{"githubUsername":"2531","blogTitle":"陶鸡巴","blogDescribe":"欢迎来到陶鸡巴的个人博客","htmlTitle":"陶鸡巴的博客","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#2690F9","backgroundColorRight":"#FC2D2D","audioUrl":"http://58.49.111.144/amobile.music.tc.qq.com/C400001UlaW91KrY4k.m4a?guid=7726713789&vkey=41129841E623406155618FE35E72654EEDEA34A7944693AB060373F6620505BE2A98477E5910D624D201C192672923A46D985D317D5B9031&uin=4919&fromtag=66","mini":true,"webSites":[{"name":"百度","url":"https://www.baidu.com/"}],"audioAutoPlay":true}
